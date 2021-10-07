@@ -7,3 +7,19 @@
     width: 97%;
     margin: 0 auto;
 }
+
+h1{ 
+    text-align: center;
+    font-family: 'Birthstone Bounce', cursive;
+    margin-bottom:15px ;
+}
+
+.container #information {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 0;
+}
+
+.container #information p, .container #information img{
+    width: 48%;
+}
