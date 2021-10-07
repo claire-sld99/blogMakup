@@ -13,3 +13,12 @@ h1{
     margin-bottom:15px ;
 }
 
+.container section{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container section #image1{
+    width: 50%;
+    margin-bottom: 15px;
+}
