@@ -23,3 +23,7 @@ h1{
 .container #information p, .container #information img{
     width: 48%;
 }
+
+#carouselExampleCaptions{
+    margin-bottom: 25px;
+}
